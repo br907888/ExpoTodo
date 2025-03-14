@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/br907888/ExpoTodo.git/static/js/main.1a4f3573.js",
-    "static/js/414.7cc74faa.js": "/br907888/ExpoTodo.git/static/js/414.7cc74faa.js",
-    "favicon.ico": "/br907888/ExpoTodo.git/favicon.ico",
-    "index.html": "/br907888/ExpoTodo.git/index.html",
-    "static/media/rocket.png": "/br907888/ExpoTodo.git/static/media/rocket.d2f3bf41d5e4515c39a9.png",
-    "static/media/bell.png": "/br907888/ExpoTodo.git/static/media/bell.cf04af27d6a651c4b904.png",
-    "favicon-32.png": "/br907888/ExpoTodo.git/favicon-32.png",
-    "static/media/star.png": "/br907888/ExpoTodo.git/static/media/star.69c7138684828d68fe5a.png",
-    "static/media/heart.png": "/br907888/ExpoTodo.git/static/media/heart.23b5c2c0eb77d50ff1b4.png",
-    "favicon-16.png": "/br907888/ExpoTodo.git/favicon-16.png",
-    "serve.json": "/br907888/ExpoTodo.git/serve.json",
-    "manifest.json": "/br907888/ExpoTodo.git/manifest.json",
-    "main.1a4f3573.js.map": "/br907888/ExpoTodo.git/static/js/main.1a4f3573.js.map",
-    "414.7cc74faa.js.map": "/br907888/ExpoTodo.git/static/js/414.7cc74faa.js.map"
+    "main.js": "/ExpoTodo/static/js/main.41f9bb21.js",
+    "static/js/414.7cc74faa.js": "/ExpoTodo/static/js/414.7cc74faa.js",
+    "favicon.ico": "/ExpoTodo/favicon.ico",
+    "index.html": "/ExpoTodo/index.html",
+    "static/media/rocket.png": "/ExpoTodo/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/ExpoTodo/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/ExpoTodo/favicon-32.png",
+    "static/media/star.png": "/ExpoTodo/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/ExpoTodo/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/ExpoTodo/favicon-16.png",
+    "serve.json": "/ExpoTodo/serve.json",
+    "manifest.json": "/ExpoTodo/manifest.json",
+    "main.41f9bb21.js.map": "/ExpoTodo/static/js/main.41f9bb21.js.map",
+    "414.7cc74faa.js.map": "/ExpoTodo/static/js/414.7cc74faa.js.map"
   },
   "entrypoints": [
     "static/js/414.7cc74faa.js",
-    "static/js/main.1a4f3573.js"
+    "static/js/main.41f9bb21.js"
   ]
 }
