@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/br907888/ExpoTodo.git/static/js/main.a6cf78b8.js",
+    "static/js/868.6d327bbd.js": "/br907888/ExpoTodo.git/static/js/868.6d327bbd.js",
+    "favicon.ico": "/br907888/ExpoTodo.git/favicon.ico",
+    "index.html": "/br907888/ExpoTodo.git/index.html",
+    "static/media/rocket.png": "/br907888/ExpoTodo.git/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/br907888/ExpoTodo.git/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/br907888/ExpoTodo.git/favicon-32.png",
+    "static/media/star.png": "/br907888/ExpoTodo.git/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/br907888/ExpoTodo.git/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/br907888/ExpoTodo.git/favicon-16.png",
+    "serve.json": "/br907888/ExpoTodo.git/serve.json",
+    "manifest.json": "/br907888/ExpoTodo.git/manifest.json",
+    "main.a6cf78b8.js.map": "/br907888/ExpoTodo.git/static/js/main.a6cf78b8.js.map",
+    "868.6d327bbd.js.map": "/br907888/ExpoTodo.git/static/js/868.6d327bbd.js.map"
+  },
+  "entrypoints": [
+    "static/js/868.6d327bbd.js",
+    "static/js/main.a6cf78b8.js"
+  ]
+}
